@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wizard-form/static/css/main.669fe4b7.chunk.css",
-    "main.js": "/wizard-form/static/js/main.b08d8c35.chunk.js",
-    "main.js.map": "/wizard-form/static/js/main.b08d8c35.chunk.js.map",
+    "main.js": "/wizard-form/static/js/main.b591378a.chunk.js",
+    "main.js.map": "/wizard-form/static/js/main.b591378a.chunk.js.map",
     "runtime-main.js": "/wizard-form/static/js/runtime-main.3639f01a.js",
     "runtime-main.js.map": "/wizard-form/static/js/runtime-main.3639f01a.js.map",
     "static/js/2.5e0b70c1.chunk.js": "/wizard-form/static/js/2.5e0b70c1.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3639f01a.js",
     "static/js/2.5e0b70c1.chunk.js",
     "static/css/main.669fe4b7.chunk.css",
-    "static/js/main.b08d8c35.chunk.js"
+    "static/js/main.b591378a.chunk.js"
   ]
 }
