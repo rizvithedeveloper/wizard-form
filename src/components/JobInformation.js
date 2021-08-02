@@ -25,7 +25,7 @@ const JobInformation = ({
         placeholder="Enter Value..."
         required="required"
         type="text"
-        width="50%"
+        width="48%"
         value={jobType}
         onInputChange={setJobType}
         selectIcon
@@ -36,7 +36,7 @@ const JobInformation = ({
         placeholder="Enter Value..."
         required="required"
         type="numbers"
-        width="50%"
+        width="48%"
         value={experience}
         onInputChange={setExperience}
         selectIcon
@@ -47,7 +47,7 @@ const JobInformation = ({
         placeholder="Enter Value..."
         required="required"
         type="text"
-        width="50%"
+        width="48%"
         value={education}
         onInputChange={setEducation}
         selectIcon
@@ -97,6 +97,7 @@ const FormWrap = styled.div`
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 50px;
+  justify-content: space-between;
 `;
 
 const ChooseFileWrapper = styled.div``;

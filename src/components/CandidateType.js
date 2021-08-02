@@ -24,7 +24,7 @@ const CandidateType = ({
         required="required"
         value={hourlyRate}
         onInputChange={setHourlyRate}
-        width="50%"
+        width="48%"
       />
       <InputField
         name="startDate"
@@ -32,7 +32,7 @@ const CandidateType = ({
         placeholder="Select date"
         type="date"
         required="required"
-        width="50%"
+        width="48%"
         value={startDate}
         onInputChange={setStartDate}
       />
@@ -42,7 +42,7 @@ const CandidateType = ({
         placeholder="Enter Value..."
         required="required"
         type="text"
-        width="50%"
+        width="48%"
         value={careerLevel}
         onInputChange={setCareerLevel}
         selectIcon
@@ -53,7 +53,7 @@ const CandidateType = ({
         placeholder="Enter Value..."
         required="required"
         type="text"
-        width="50%"
+        width="48%"
         value={gender}
         onInputChange={setGender}
         selectIcon
@@ -75,6 +75,7 @@ const CandidateType = ({
 const FormWrap = styled.div`
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
 `;
 
 export default CandidateType;
